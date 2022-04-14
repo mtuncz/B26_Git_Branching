@@ -1,2 +1,6 @@
 this is added from github.com 
 just to do some practice 
+
+additional text added here, the first time we did pull
+now i want to do update project
+
