@@ -1,3 +1,7 @@
 second file from github.com 
 
-added second file here 
+added second file here
+
+fixed typo on this file
+
+
