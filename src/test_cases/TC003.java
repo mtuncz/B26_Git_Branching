@@ -13,6 +13,9 @@ public class TC003 {
 
         // work 4
 
+        // head is the current location of our commit it is the latest commit we made
+
+        // when we create new branch the head will move to there
 
     }
 }
